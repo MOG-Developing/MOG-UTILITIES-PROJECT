@@ -13,3 +13,4 @@ The UI is user-friendly and easy to use. I have made the V1 and V2, V3 is coming
 
 
 ## V3 COMING SOON!! (possibly releasing this week)
+__What will V3 include? It will include more optimizations and tweaks to more optimize your computer! It will have a bit worse UI than V1 and V2 but still user-friendly.__
