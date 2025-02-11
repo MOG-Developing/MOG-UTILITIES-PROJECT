@@ -11,6 +11,8 @@ The UI is user-friendly and easy to use. I have made the V1 and V2, V3 is coming
 
 [Python 3.11 DOWNLOAD](https://apps.microsoft.com/detail/9nrwmjp3717k?hl=en-US&gl=US)
 
+[HOW TO SETUP](https://github.com/MOG-Developing/MOG-UTILITIES-PROJECT/blob/main/SETTINGITUP.md)
+
 
 ## V3 COMING SOON!! (possibly releasing this week)
 __What will V3 include? It will include more optimizations and tweaks to more optimize your computer! It will have a bit worse UI than V1 and V2 but still user-friendly.__
